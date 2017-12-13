@@ -267,7 +267,7 @@ div1.tooltip {
   display: none;
 }
 
-#tooltip {
+#tooltip1 {
   position: absolute;
   width: 300px;
   height: auto;
@@ -283,11 +283,11 @@ div1.tooltip {
   pointer-events: none;
 }
 
-#tooltip.hidden {
+#tooltip1.hidden {
   display: none;
 }
 
-#tooltip p {
+#tooltip1 p {
   margin: 0;
   font-family: sans-serif;
   font-size: 16px;
